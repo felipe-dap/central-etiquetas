@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+preferencias.json
+erro-app.txt
+.env
+.env.*
+!.env.example
+*.pdf
+*.zpl
+*.log
+_processamento/
+impressos/
+resultados/
+pdfs-gerados/
+dist/
+diagnostico-spooler.txt
